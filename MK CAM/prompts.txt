@@ -1,0 +1,95 @@
+Night Sky — Milky Way Ultra Reveal
+Desc: Enhance star field, accent Milky Way details, brighten stars without blowing foreground.
+Prompt: “Enhance the night sky: vivid Milky Way band, sharp star points, deep contrast, reveal faint nebulosity, retain natural foreground exposure, cinematic long-exposure look.”
+Suggested: strength 0.85, detail high. Negative: “overexposed foreground, added satellites, fake lens flares.”
+
+Starstack — Deep Star Reveal
+Desc: Multi-frame stack style star reveal and low-noise sky.
+Prompt: “Merge selected frames using median stacking to remove noise and reveal faint stars; increase star brightness slightly and preserve foreground silhouettes.”
+Suggested: multi-frame operation, align=true.
+
+Cinema Portrait — Soft Film Glow
+Prompt: “Portrait close-up, soft film glow, shallow depth of field, warm skin tones, subtle film grain, cinematic color grading.”
+Suggested: strength 0.6, LUT=cine_warm.
+
+Anime Portrait — Soft Anime Art
+Prompt: “Transform into high-quality anime portrait: clean linework, soft shading, warm palette, subtle highlights.”
+Suggested: strength 0.7.
+
+Neon Street — Night Urban Glow
+Prompt: “Night street scene with neon reflections, wet road reflections, high contrast, saturated neon hues, cinematic haze.”
+
+Astro Painter — Painterly Star Trails
+Prompt: “Long-exposure star trails, painterly style, vibrant color splashes, keep foreground crisp.”
+
+Ultra Denoise — Clean Low-Light
+Prompt: “Aggressive denoising while preserving edges and textures; natural skin preservation.”
+
+HDR Reconstruct — High Dynamic Range Merge
+Prompt: “Merge bracketed exposures to full HDR with natural highlights and detailed shadows; avoid halos.”
+
+Film Kodak Portra — Film Emulation
+Prompt: “Apply Kodak Portra 400 film emulation: warm highlights, gentle contrast, natural skin tones.”
+
+Film Fuji Velvia — Vivid Film Emulation
+Prompt: “Fuji Velvia style: punchy greens, high saturation, dramatic color.”
+
+Astro Composite — Foreground + Star Layer Merge
+Prompt: “Blend foreground (single frame) with star-stacked background; natural composites, match color temperature, preserve edges.”
+
+Vintage Bokeh — Soft Vintage Look
+Prompt: “Warm vintage bokeh, cream highlights, soft vignette, analog lens imperfections.”
+
+Black & White — High Contrast Mono
+Prompt: “Rich black and white, strong midtone contrast, film grain.”
+
+Macro Detail — Reveal Micro Textures
+Prompt: “Enhance micro-texture detail and clarity for macro subjects without oversharpening.”
+
+Glow Fantasy — Soft Magical Glow
+Prompt: “Dreamy, soft glow with enhanced highlights and subtle bloom; keep subject clarity.”
+
+Realistic Face Retouch — Natural Beauty
+Prompt: “Subtle skin smoothing, preserve pores, natural eye sharpening, no plastic look.”
+
+Pro Color Grade — Teal & Orange Cinematic
+Prompt: “Apply teal-and-orange look with preserved skin tones and punchy shadows.”
+
+Pastel Dream — Soft Pastels & Low Contrast
+Prompt: “Delicate pastel color grades, low contrast, soft highlights.”
+
+Retro TV — CRT Vibe
+Prompt: “Slight scanlines, soft bloom, retro TV color curve.”
+
+Ultra Sharpen — Edge-Aware Sharpness
+Prompt: “Increase perceived sharpness with edge-aware filter.”
+
+Low Light Rescue — Boost Shadows Gently
+Prompt: “Brighten shadows, reduce noise, keep highlights stable.”
+
+Starburst Highlights — Add Small Starbursts to Bright Points
+Prompt: “Enhance bright points with subtle starburst effect, natural look.”
+
+Wide Angle Correction — Lens Distortion Fix
+Prompt: “Correct fisheye and wide-angle distortion while preserving crop.”
+
+Artistic Painterly — Oil Paint Texture
+Prompt: “Subtle oil-paint style, preserve main edges and facial features.”
+
+Bokeh Montage — Combine custom bokeh shapes
+Prompt: “Apply stylized bokeh shapes (hexagon, heart) to blurred highlights.”
+
+Ultra Color Pop — Vibrant Colors Without Skin Shift
+Prompt: “Boost saturation selectively (non-skin), keep skin natural.”
+
+Long Exposure Smooth Water — Motion Blur Blend
+Prompt: “Blend multiple exposures for silky water and crisp stationary objects.”
+
+Moon Detail Boost — Lunar Clarity
+Prompt: “Enhance lunar surface detail, increase local contrast and sharpness; avoid haloing.”
+
+High Key Portrait — Bright, Ethereal
+Prompt: “Very bright portrait with soft shadows and high key look.”
+
+Low Key Drama — Dark Mood Portrait
+Prompt: “Dark background, focused rim lighting, deep shadows, cinematic mood.”

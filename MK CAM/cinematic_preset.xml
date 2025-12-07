@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sample Preset for Import -->
+<preset>
+    <id>custom_cine_01</id>
+    <name>Cinematic Teal & Orange</name>
+    <description>Classic blockbuster look with preserved skin tones.</description>
+    <prompt>Apply teal-and-orange look with preserved skin tones and punchy shadows.</prompt>
+    <negative_prompt>Oversaturated skin, blue shadows on face</negative_prompt>
+    <parameters>
+        <param name="strength">0.75</param>
+        <param name="lut">teal_orange_v2</param>
+    </parameters>
+</preset>
